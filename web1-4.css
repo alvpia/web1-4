@@ -1,10 +1,10 @@
 body{background-image:url("back.jpg");}
 
 
+.back{background-color:#4FDF1F;}
+.hed:first-letter{font-size:5em;}
 
-p.hed:first-letter{font-size:5em;}
-p.back{background-color:#4FDF1F;}
-p#bol{font-weight:bold;}
+#bol{font-weight:bold;}
 h1{border: solid 10px #dddddd;}
 
 
