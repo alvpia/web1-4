@@ -1,5 +1,5 @@
 body{background-image:"back.jpg"}
-h1{border:solid 10px;}
+h1{border: solid 10px #dddddd;}
 p{font-size:20;}
 .back{background-color:red;}
 #back{font-weight:bold;}
