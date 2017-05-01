@@ -3,4 +3,4 @@ h1{border: solid 10px #dddddd;}
 p{font-size:20;}
 .back{background-color:#4FDF1F;}
 #bol{font-weight:bold;}
-.hed:first-letter{font-size:5em;}
+p.hed:first-letter{font-size:5em;}
