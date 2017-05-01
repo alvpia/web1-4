@@ -1,6 +1,7 @@
 body{background-image:url("back.jpg");}
 h1{border: solid 10px #dddddd;}
 p{font-size:20;}
+p.hed:first-letter{font-size:5em;}
 .back{background-color:#4FDF1F;}
 #bol{font-weight:bold;}
-p.hed:first-letter{font-size:5em;}
+
