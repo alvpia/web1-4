@@ -4,5 +4,6 @@ body{background-image:url("back.jpg");}
 p#bol{font-weight:bold;}
 p.hed:first-letter{font-size:5em;}
 p.back{background-color:#4FDF1F;}
+h1{border: solid 10px #dddddd;}
 
 
