@@ -1,8 +1,8 @@
 body{background-image:url("back.jpg");}
 h1{border: solid 10px #dddddd;}
-p{font-size:20;}
-#bol{font-weight:bold;}
-.hed:first-letter{font-size:5em;}
-.back{background-color:#4FDF1F;}
+
+p#bol{font-weight:bold;}
+p.hed:first-letter{font-size:5em;}
+p.back{background-color:#4FDF1F;}
 
 
